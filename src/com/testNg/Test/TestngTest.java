@@ -22,4 +22,11 @@ public class TestngTest {
 	public void demo2() {
 		System.out.println("Bye");
 	}
+	
+	@Test
+	public void timeZone()
+	{
+		System.out.println("USA TimeZone Update");
+		System.out.println("UK TimeZone Update");
+	}
 }
