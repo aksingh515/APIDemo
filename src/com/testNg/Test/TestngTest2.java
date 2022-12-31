@@ -26,4 +26,10 @@ public class TestngTest2
 		System.out.println("Family Isurance");
 		System.out.println("Car Issurance");
 	}
+	
+	public void securityPolicy()
+	{
+		System.out.println("House");
+		System.out.println("Property");
+	}
 }
